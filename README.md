@@ -1,3 +1,7 @@
+## Live Demo
+
+Check out the live version of the project here: [mini_shopping_cart](https://sla-nu.vercel.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
