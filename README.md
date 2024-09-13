@@ -1,6 +1,6 @@
 ## Live Demo
 
-Check out the live version of the project here: [mini_shopping_cart](https://sla-nu.vercel.app/)
+Check out the live version of the project here: [mini_shopping_cart](https://minishoppingcart.vercel.app/)
 
 # Getting Started with Create React App
 
