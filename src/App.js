@@ -10,7 +10,7 @@ function App() {
           name: 'Antique Jhumkas', 
           price: 799, 
           image: 
-'https://simplecraftidea.com/wp-content/uploads/2020/11/1-3.jpg.webp'
+'https://aspfashionjewellery.com/cdn/shop/files/Picsart_23-06-30_15-25-59-300.jpg?v=1688211968'
         },
         { id: 2, 
           name: 'Silver Jhumkas', 
