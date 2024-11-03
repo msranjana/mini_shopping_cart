@@ -10,7 +10,7 @@ function App() {
           name: 'Antique Jhumkas', 
           price: 799, 
           image: 
-'https://m.media-amazon.com/images/I/71vFivN2SRL._SL1172_.jpg'
+'https://via.placeholder.com/150'
         },
         { id: 2, 
           name: 'Silver Jhumkas', 
