@@ -10,7 +10,7 @@ function App() {
           name: 'Antique Jhumkas', 
           price: 799, 
           image: 
-'https://aspfashionjewellery.com/cdn/shop/files/Picsart_23-06-30_15-25-59-300.jpg'
+'https://m.media-amazon.com/images/I/71vFivN2SRL._SL1172_.jpg'
         },
         { id: 2, 
           name: 'Silver Jhumkas', 
